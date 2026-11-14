@@ -437,6 +437,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- [SandBase CLI](https://github.com/sandbaseai/cli) - Local MCP bridge that lets clients discover and call SandBase model and data APIs through one account.
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
